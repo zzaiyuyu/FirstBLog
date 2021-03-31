@@ -17,7 +17,7 @@ hyperlink==17.3.1
 idna==2.6
 incremental==17.5.0
 jieba==0.39
-lxml==4.1.1
+lxml==4.6.3
 Markdown==2.6.9
 Naked==0.1.31
 parsel==1.3.1
